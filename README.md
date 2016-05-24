@@ -1,14 +1,14 @@
 # life
 
-A Clojure library designed to ... well, that part is up to you.
+2D Game of Life for command line
 
 ## Usage
 
-FIXME
+If you have Leiningen installed, run from source by executing `lein run`, otherwise run jar
+from the project root at command line with: `java -jar target/life-0.1.0-SNAPSHOT-standalone.jar`
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License
